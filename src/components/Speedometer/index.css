@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.image {
+  width: 40%;
+}
+.heading {
+  color: #ffffff;
+  font-style: italic;
+}
+.speed {
+  color: #ffffff;
+}
+.limit {
+  color: #ffffff;
+}
+.accelerate-button {
+  background-color: #0b69ff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  color: #ffffff;
+  height: 24px;
+  width: 90px;
+  margin: 8px;
+  padding: 4px;
+}
+.apply-brake {
+  background-color: #000000;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  color: #ffffff;
+  height: 24px;
+  width: 90px;
+  margin: 8px;
+  padding: 4px;
+}
